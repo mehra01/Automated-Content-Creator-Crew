@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rahul mehra
+- 👋 Hi, I’m Rahul Mehra
 - 👀 I’m interested in searching for best thing
 - 🌱 I’m currently learning c++ language and javascript
 - 💞️ I’m looking to collaborate on ...
