@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Mehra
 - 👀 I’m interested in searching for best thing
-- 🌱 I’m currently learning c++ language and javascript
+- 🌱 I’m currently learning c++ language and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
