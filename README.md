@@ -93,11 +93,6 @@ Feel free to submit issues or pull requests for improvements!
 
 ---
 
-## 📜 License
-
-[MIT](LICENSE)
-
----
 
 ## 👤 Author
 
