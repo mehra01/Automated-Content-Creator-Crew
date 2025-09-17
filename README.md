@@ -1,4 +1,4 @@
-# Automated Content Creator Crew
+# Automated Content Creator with Crew
 
 A Python-based automation for creating, writing, and optimizing SEO-friendly articles using agents powered by OpenAI and CrewAI.
 
